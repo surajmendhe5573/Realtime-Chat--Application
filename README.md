@@ -1,5 +1,5 @@
 # realtime-chat-app
-Realtime chat app using socket.io and node js
+Realtime chat app using socket.io and nodejs
 ## Installation 
 After download or clone run `npm install` to install all the dependancies.
 
